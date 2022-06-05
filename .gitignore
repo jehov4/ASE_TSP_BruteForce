@@ -1,7 +1,4 @@
-*
+.gradle/
+.idea/
+gradle/
 
-!.gitignore
-!*/*/*
-!src/*
-!data/*
-!*.gradle
